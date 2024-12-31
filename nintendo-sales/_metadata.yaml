@@ -1,0 +1,12 @@
+snes:
+  source: https://en.wikipedia.org/wiki/List_of_best-selling_Super_Nintendo_Entertainment_System_video_games
+n64:
+  source: https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games
+gc:
+  source: https://en.wikipedia.org/wiki/List_of_best-selling_GameCube_video_games
+wii:
+  source: https://en.wikipedia.org/wiki/List_of_best-selling_Wii_video_games
+wii-u:
+  source: https://en.wikipedia.org/wiki/List_of_best-selling_Wii_U_video_games
+switch:
+  source: https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games
